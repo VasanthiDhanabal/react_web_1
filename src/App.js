@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Testing react with automation
+          Testing react with automation on mobile
         </a>
       </header>
     </div>
